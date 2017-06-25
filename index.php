@@ -1,3 +1,4 @@
 <?php 
 
-echo "teste";?>
+echo "olá mundo";
+?>
